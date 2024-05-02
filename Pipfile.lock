@@ -587,7 +587,6 @@
                 "sha256:f1edee0cd214512054c01a8d031a8d213dddb53492b02c9e66256e3efe90d175"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.8'",
             "version": "==2.11.1"
         },
         "scrapy-selenium": {
@@ -604,7 +603,6 @@
                 "sha256:b1d0c33b38ca27d0499183e48e1dd09ff26973481f5d3ef2983073813ae6588d"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.8'",
             "version": "==4.20.0"
         },
         "service-identity": {

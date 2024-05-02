@@ -14,4 +14,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-# https://www.zenrows.com/blog/selenium-python-web-scraping#wait-for-element
+# https://www.zenrows.com/blog/scrapy-selenium
