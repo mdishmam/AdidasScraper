@@ -15,3 +15,10 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 # https://www.zenrows.com/blog/scrapy-selenium
+
+# todo:
+#  1. Scrape information [remaining]
+#  2. pagination update
+#  3. Write rows while scraping in spreadsheet
+#  4. resuming if error, from where it stoped before
+
